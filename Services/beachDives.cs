@@ -14,6 +14,7 @@ namespace Services
 
         public override string ToString()
         {
+            string output = "";
             output += string.Format("{0}\n{1}\n{2}\{3}", this.ReleaseDate, this.Level, this.Description, this.otherInfo);
             return output;
         }
