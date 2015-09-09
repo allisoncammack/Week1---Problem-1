@@ -1,0 +1,3 @@
+C:\Users\Allison\Documents\Visual Studio 2015\Projects\Week1 - Problem 1\Week1 - Problem 1\bin\Debug\Week1 - Problem 1.exe.config
+C:\Users\Allison\Documents\Visual Studio 2015\Projects\Week1 - Problem 1\Week1 - Problem 1\Problem 1\bin\Debug\Week1 - Problem 1.exe.config
+C:\Users\Allison\Documents\Visual Studio 2015\Projects\Week1 - Problem 1\Week1 - Problem 1\Problem 1\obj\Debug\Week1 - Problem 1.csprojResolveAssemblyReference.cache
